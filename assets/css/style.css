@@ -264,10 +264,11 @@ section h6 {
   object-fit: cover;
   object-position: top;
 }
-.cus-cards .crt .image i {
+.cus-cards .crt .image button {
   position: absolute;
   right: 14px;
   top: 14px;
+  border: none;
 }
 .cus-cards .crt .image span {
   position: absolute;
